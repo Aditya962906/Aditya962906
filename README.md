@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Aditya 👋
 
-<!--
-**Aditya962906/Aditya962906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech CSE Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+🎓 B.Tech in Computer Science & Engineering  
+💻 C++ • Java • Python • MySQL  
+🌐 Learning Web Development  
+🧩 Practicing Data Structures & Algorithms  
+🚀 Building practical projects and improving every day
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Coding
+
+- Solved 100+ problems on LeetCode & GeeksforGeeks
+- Currently focusing on DSA and Web Development
+
+### 🎯 Goal
+
+To become a strong Software Developer and build useful real-world applications.
+
+### 📫 Connect
+
+- LinkedIn: [Aditya](https://www.linkedin.com/in/aditya-891555332/)
